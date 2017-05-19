@@ -1,0 +1,22 @@
+body {
+	background-color: #3b2e75;
+}
+
+.container-fluid {
+	font-family: 'Barrio', cursive;
+	color: white;
+	font-size: 20px;
+}
+
+.container-fluid img {
+	position: absolute;
+	width: 100%;
+	opacity: 0.2;
+}
+
+.container {
+	text-align: center;
+	background-color: #3b2e75;
+	color: white;
+}
+
